@@ -1,0 +1,21 @@
+.container {
+	background-color: #ccc;
+	display: inline-block;
+	padding: 10px;
+}
+
+.stuff {
+	display: block;
+	padding: 5px;
+}
+
+.image {
+	max-width: 300px;
+	max-height: 400px;
+	padding: 10px;
+}
+
+#output {
+	padding-bottom: 10px;
+}
+
